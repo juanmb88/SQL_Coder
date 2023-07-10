@@ -1,0 +1,10 @@
+Aca se deja en orden la insercion de los archivos de forma enumerada.
+1. Creacion_Tablas : Este archivo se creeara la base de datos y las tablas que la integraran.
+2. Insercion_Datos_Tablas : Este archivo podemos ver la insercion de datos ficticios a las tablas.
+3. Creacion_Vistas : Este archivo contiene las vistas de las base de datos.
+4. Creacion_Funciones : Este archivo contiene las funciones desarrolladas.
+5. Creacion_Stored_Procedure : Este archivo contiene los procedimientos para la base de datos.
+6. Creacion_Triggers : Este archivo contiene tablas y triggers que se le relacionan.
+7. DCL : Este archivo muestra la creaciuon de usuarios y darles los permisos a cada uno hacia la BD.
+8. TCL : Este archivo refiere a la administración de usuarios, la modificación de contraseñas y la asignación de permisos. 
+9. Backup :  backup de la base de datos.
